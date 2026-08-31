@@ -1,0 +1,1334 @@
+# LaLibertia Commercial Software & Digital Works License
+
+**Version:** 1.0
+**Parent Brand:** LaLibertia
+**Current Owner / Operator:** LaLibertiaDev
+**License Type:** Perpetual, worldwide, non-exclusive, commercial license
+**Default Application:** All LaLibertia-owned Projects and Materials that do not have another expressly designated license
+
+> **Legal Notice:** This document is a business-facing commercial license template and is not a substitute for legal advice. Before relying on it for significant commercial transactions, copyright assignments, exclusivity arrangements, international transactions, employment relationships, or other high-value arrangements, obtain appropriate legal review in the relevant jurisdiction(s).
+
+---
+
+## Table of Contents
+
+1. [Purpose and Default Application](#1-purpose-and-default-application)
+2. [Scope of This License](#2-scope-of-this-license)
+3. [License Hierarchy](#3-license-hierarchy)
+4. [Definitions](#4-definitions)
+5. [License Grant](#5-license-grant)
+6. [Permitted Uses](#6-permitted-uses)
+7. [Prohibited Uses](#7-prohibited-uses)
+8. [Ownership and Intellectual Property](#8-ownership-and-intellectual-property)
+9. [Reusable LaLibertia Systems](#9-reusable-lalibertia-systems)
+10. [Project-Specific Work and Buyer Materials](#10-project-specific-work-and-buyer-materials)
+11. [Exclusivity](#11-exclusivity)
+12. [Third-Party Software and Assets](#12-third-party-software-and-assets)
+13. [Open-Source and Separately Licensed Materials](#13-open-source-and-separately-licensed-materials)
+14. [AI-Assisted Development](#14-ai-assisted-development)
+15. [Source Code, Design Files, and Documentation](#15-source-code-design-files-and-documentation)
+16. [Fees and Payment](#16-fees-and-payment)
+17. [Support, Maintenance, and Updates](#17-support-maintenance-and-updates)
+18. [Brand Structure and Public Identity](#18-brand-structure-and-public-identity)
+19. [Portfolio and Marketing Rights](#19-portfolio-and-marketing-rights)
+20. [Confidentiality](#20-confidentiality)
+21. [Transfer of a Business or Project](#21-transfer-of-a-business-or-project)
+22. [Refunds, Cancellations, and Chargebacks](#22-refunds-cancellations-and-chargebacks)
+23. [Warranty and Disclaimer](#23-warranty-and-disclaimer)
+24. [Limitation of Liability](#24-limitation-of-liability)
+25. [License Compliance and Termination](#25-license-compliance-and-termination)
+26. [No Implied Rights](#26-no-implied-rights)
+27. [Project-Specific Agreements](#27-project-specific-agreements)
+28. [Electronic Acceptance and Records](#28-electronic-acceptance-and-records)
+29. [Changes to This License](#29-changes-to-this-license)
+30. [General Legal Terms](#30-general-legal-terms)
+31. [Plain-English Summary](#31-plain-english-summary)
+32. [Standard License Information](#32-standard-license-information)
+33. [Legal Notice and Review Items](#33-legal-notice-and-review-items)
+
+---
+
+## 1. Purpose and Default Application
+
+This LaLibertia Commercial Software & Digital Works License ("License") establishes the default terms under which LaLibertia / LaLibertiaDev licenses its software, source code, applications, websites, bots, tools, systems, templates, design implementations, design files, UI/UX designs, graphics, documentation, digital products, and related materials.
+
+This License is intended to function as the standard commercial license included with LaLibertia Projects.
+
+This License applies to LaLibertia-owned Projects and Materials when this License is included with or expressly designated for that Project or Material. Public availability alone does not grant any license. 
+
+This License is designed to be reusable across:
+
+- websites;
+- web applications;
+- frontend applications;
+- backend applications;
+- full-stack applications;
+- APIs;
+- bots;
+- automation systems;
+- desktop applications;
+- mobile applications;
+- software tools;
+- libraries and packages;
+- source code;
+- UI/UX implementations;
+- Figma and other design-platform files;
+- design systems;
+- graphics;
+- templates;
+- documentation;
+- digital assets;
+- technical systems; and
+- other digital works created, distributed, or licensed by LaLibertia / LaLibertiaDev.
+
+The presence of this License in a Project does not automatically make Third-Party Material subject to this License. Third-Party Material remains governed by its own applicable license.
+
+---
+
+## 2. Scope of This License
+
+### 2.1 Universal Default License
+
+This License is LaLibertia's default commercial license.
+
+It may be placed in the root directory of a Project as:
+
+`LICENSE.md`
+
+or:
+
+`License.md`
+
+or another clearly identifiable license file.
+
+Where this License is included with a Project and no other license is expressly designated for the applicable LaLibertia-owned material, this License governs that material.
+
+### 2.2 Project-Specific Scope
+
+The license rights granted to a Licensee apply only to the Project or Materials the Licensee legitimately received.
+
+Receiving one LaLibertia Project does not grant rights to:
+
+- unrelated LaLibertia Projects;
+- unrelated repositories;
+- unrelated source code;
+- unrelated design files;
+- LaLibertia's internal systems;
+- LaLibertia's private tools;
+- LaLibertia's other templates;
+- LaLibertia's trademarks; or
+- LaLibertia's other proprietary Materials.
+
+### 2.3 Public Availability
+
+Public visibility does not automatically mean that a Project is open source.
+
+A public repository, public webpage, public Figma file, public preview, downloadable file, demonstration, screenshot, or other publicly accessible Material does not grant rights beyond those expressly provided by its designated license or applicable law.
+
+Where this License is expressly included or designated for the applicable Material, this License governs that Material.
+
+Where another license is expressly designated, that other license governs the applicable Material according to Section 3.
+
+### 2.4 No Buyer-Specific Information Required
+
+This standard License is not required to contain:
+
+- customer names;
+- invoice numbers;
+- purchase dates;
+- order numbers;
+- project prices; or
+- individual customer signatures.
+
+Those details may instead be recorded separately in invoices, Purchase Agreements, order records, contracts, receipts, or other business records.
+
+---
+
+## 3. License Hierarchy
+
+Where multiple licenses, agreements, or rights may apply, the following hierarchy determines which terms govern.
+
+### 3.1 Project-Specific Written Agreement
+
+A valid Project-Specific Agreement may modify or supplement this License for the identified Project.
+
+Where a valid Project-Specific Agreement directly conflicts with this License, the Project-Specific Agreement controls only to the extent of the conflict and only for the identified Project.
+
+### 3.2 Explicitly Designated License
+
+If a specific Project or specific portion of a Project is expressly designated as being governed by another license, that license governs the applicable material.
+
+Examples include:
+
+- MIT License;
+- Apache License 2.0;
+- GPL;
+- LGPL;
+- BSD licenses;
+- proprietary third-party licenses; or
+- another expressly designated license.
+
+### 3.3 Third-Party Licenses
+
+Third-Party Material remains subject to its own license regardless of the license governing the surrounding Project.
+
+LaLibertia cannot grant rights that LaLibertia does not own or control.
+
+### 3.4 This License
+
+This License governs LaLibertia-owned Material by default where no valid Project-Specific Agreement or other expressly designated license displaces it.
+
+### 3.5 Mixed-Licensed Projects
+
+A single Project may contain Materials governed by different licenses.
+
+For example:
+
+- LaLibertia-owned source code may be governed by this License;
+- an MIT-licensed library may remain governed by MIT;
+- a paid font may remain governed by its vendor's license; and
+- an image may remain governed by its stock or creator license.
+
+The licenses apply to their respective Materials and do not automatically replace one another.
+
+### 3.6 No Designated License At All
+
+If a LaLibertia Project or resource does not explicitly designate **any** license — neither this License, MIT, nor another license — this License does **not** automatically apply to it merely because LaLibertia created it or made it publicly visible. Absent an explicit designation, no license should be assumed, and a recipient should not treat public visibility alone as granting rights to use, copy, modify, or redistribute that resource.
+
+---
+
+## 4. Definitions
+
+### 4.1 "LaLibertia"
+
+"LaLibertia" means the parent brand under which the applicable work is produced, distributed, developed, or licensed.
+
+### 4.2 "LaLibertiaDev"
+
+"LaLibertiaDev" means the current owner/operator issuing this License on behalf of LaLibertia.
+
+### 4.3 "Licensee"
+
+"Licensee" means the person, company, organization, client, developer, or other recipient that legitimately obtains a Project or Material from LaLibertia / LaLibertiaDev or from a source authorized to distribute it.
+
+The term "Licensee" includes a purchaser and, where applicable, an authorized recipient of a free Project. A person or entity that obtains a copy of a Project without such authorization (for example, through unauthorized copying, distribution, or access) is not a Licensee, does not receive any rights under this License, and remains subject to whatever legal remedies are available to LaLibertia / LaLibertiaDev and any affected third parties.
+
+### 4.4 "Buyer"
+
+"Buyer" means a Licensee that obtained the applicable Project through a commercial purchase or other paid transaction.
+
+Where the context involves a free Project, "Licensee" or "Recipient" may be used instead.
+
+### 4.5 "Project"
+
+"Project" means the specific software, application, website, bot, tool, system, source code, design implementation, design file, UI/UX work, template, documentation, graphic, digital product, or other deliverable to which this License is expressly attached or designated.
+
+### 4.6 "Material"
+
+"Material" means any individual component, file, code, design, documentation, graphic, asset, or other work contained within or distributed with a Project.
+
+### 4.7 "Source Code"
+
+"Source Code" means editable source code delivered as part of the applicable Project, including frontend, backend, scripts, configuration, utilities, and other editable programming materials.
+
+### 4.8 "Design Files"
+
+"Design Files" means editable design materials, including Figma files and files created using other design platforms.
+
+### 4.9 "Third-Party Material"
+
+"Third-Party Material" means software, libraries, frameworks, fonts, icons, images, videos, plugins, APIs, services, models, tools, or other Materials not owned or controlled by LaLibertia / LaLibertiaDev.
+
+### 4.10 "Purchase Agreement"
+
+"Purchase Agreement" means an invoice, quotation, order, proposal, contract, marketplace transaction, written commercial agreement, or other documented arrangement governing a specific Project, if one exists. If no separate Purchase Agreement exists for a Project, this License governs that Project on its own, subject to applicable law.
+
+### 4.11 "Project-Specific Agreement"
+
+"Project-Specific Agreement" means a written agreement specifically identifying a Project and expressly modifying or supplementing this License.
+
+---
+
+## 5. License Grant
+
+Subject to the Licensee's compliance with this License and payment of applicable fees where required, LaLibertia / LaLibertiaDev grants the Licensee a:
+
+- Perpetual license;
+- Worldwide license;
+- Non-exclusive license;
+- Project-specific license; and
+- Commercial-use license.
+
+The License permits the Licensee to use, deploy, modify, customize, maintain, and operate the applicable Project as described in this License.
+
+### 5.1 Perpetual
+
+The License does not expire merely because time passes.
+
+Subject to compliance with this License, the Licensee may continue using the Project indefinitely.
+
+### 5.2 Worldwide
+
+The License is not restricted to a particular country or territory unless a Project-Specific Agreement expressly states otherwise.
+
+### 5.3 Non-Exclusive
+
+The License does not prevent LaLibertia from developing, using, licensing, or selling similar work to other parties unless a valid written exclusivity agreement states otherwise.
+
+### 5.4 Commercial Use
+
+The Licensee may use the Project for legitimate commercial activities.
+
+Commercial use includes, without limitation:
+
+- operating a business;
+- operating a website;
+- operating an application;
+- selling products or services;
+- generating advertising revenue;
+- providing services to customers;
+- using the Project internally; and
+- using the Project as part of a larger business system.
+
+---
+
+## 6. Permitted Uses
+
+The Licensee may:
+
+### 6.1 Use the Project
+
+Use the Project for personal, organizational, client, or commercial purposes.
+
+### 6.2 Deploy the Project
+
+Deploy the Project on hosting, servers, cloud infrastructure, local infrastructure, or other suitable environments.
+
+### 6.3 Modify the Project
+
+Edit, refactor, rewrite, redesign, extend, rename, restructure, or otherwise modify the Project.
+
+### 6.4 Customize the Project
+
+The Licensee may change:
+
+- names;
+- logos;
+- colors;
+- typography;
+- layouts;
+- copy;
+- images;
+- pages;
+- navigation;
+- features;
+- pricing;
+- links;
+- animations;
+- workflows;
+- commands;
+- integrations;
+- functionality; and
+- other Project-specific elements.
+
+### 6.5 Integrate Other Systems
+
+The Licensee may connect the Project to:
+
+- databases;
+- APIs;
+- authentication systems;
+- payment systems;
+- CMS platforms;
+- analytics;
+- cloud services;
+- hosting;
+- third-party services; and
+- other independently licensed systems.
+
+### 6.6 Hire Developers
+
+The Licensee may hire:
+
+- employees;
+- contractors;
+- freelancers;
+- developers;
+- agencies;
+- consultants; or
+- technical teams
+
+to work on the Project for the Licensee's permitted use.
+
+Such persons may access the Project only as reasonably necessary to perform work for the Licensee and may not independently redistribute or commercially resell the Project.
+
+### 6.7 Maintain the Project
+
+The Licensee may maintain, repair, update, refactor, extend, or replace portions of the Project.
+
+### 6.8 Create Private Development Copies
+
+The Licensee may maintain reasonable:
+
+- development copies;
+- staging copies;
+- testing copies;
+- local copies; and
+- backups
+
+for the Licensee's permitted use.
+
+Such copies may not be distributed to unrelated third parties or used to circumvent the restrictions of this License.
+
+### 6.9 Create Derivative Versions
+
+The Licensee may create modified or derivative versions for the Licensee's own permitted use.
+
+### 6.10 Remove LaLibertia Branding
+
+Unless a Purchase Agreement states otherwise, the Licensee may remove LaLibertia / LaLibertiaDev branding, credits, links, or visual references from the delivered Project.
+
+Removing branding does not transfer ownership of LaLibertia's trademarks, logos, brand identity, or other intellectual property.
+
+---
+
+## 7. Prohibited Uses
+
+Unless expressly authorized in writing by LaLibertia / LaLibertiaDev, the Licensee may not:
+
+### 7.1 Resell Source Code
+
+Sell, lease, sublicense, distribute, publish, or give away the Source Code as a standalone product.
+
+### 7.2 Redistribute the Project
+
+Distribute the Project or substantially similar Source Code or Design Files to unrelated third parties for the purpose of allowing those parties to obtain or reuse the underlying source.
+
+### 7.3 Sell as a Template
+
+Convert the Project into:
+
+- a website template;
+- software template;
+- starter kit;
+- boilerplate;
+- UI kit;
+- design kit;
+- component library;
+- Figma template;
+- design asset;
+- source-code package;
+- marketplace product; or
+- substantially similar reusable commercial product
+
+for distribution to unrelated third parties.
+
+### 7.4 Create a Competing Source Product
+
+The Licensee may not take the Project or substantial portions of it and create a competing product whose primary value is providing substantially the same Source Code or Design Files to other customers.
+
+### 7.5 Sublicense
+
+The Licensee may not grant unrelated third parties a license that is broader than the Licensee's own rights.
+
+### 7.6 Claim Ownership of Third-Party Material
+
+The Licensee may not claim ownership of Third-Party Material merely because it is included in the Project.
+
+### 7.7 Redistribute LaLibertia Internal Systems
+
+The Licensee may not separately distribute LaLibertia's unrelated:
+
+- internal libraries;
+- internal tools;
+- reusable systems;
+- proprietary components;
+- private templates;
+- design systems;
+- development frameworks; or
+- internal documentation.
+
+### 7.8 Misrepresent Creation
+
+The Licensee may not knowingly and misleadingly claim that the Licensee independently created every part of the Project from scratch when that statement would be materially false.
+
+The Licensee may, however, present the completed Project as its own deployed product, commissioned work, business system, or modified product where appropriate.
+
+### 7.9 Grant Broader Rights
+
+The Licensee may not grant another party rights exceeding the rights granted under this License.
+
+---
+
+## 8. Ownership and Intellectual Property
+
+### 8.1 LaLibertia Ownership
+
+Unless expressly assigned in writing, LaLibertia / LaLibertiaDev retains ownership of:
+
+- LaLibertia branding;
+- LaLibertia trademarks;
+- pre-existing Source Code;
+- reusable code;
+- internal systems;
+- reusable components;
+- reusable templates;
+- general development systems;
+- general design techniques;
+- internal tools;
+- general technical knowledge;
+- internal documentation; and
+- other LaLibertia-owned intellectual property.
+
+### 8.2 License, Not Assignment
+
+Payment for a Project does not automatically constitute a copyright assignment or transfer of intellectual-property ownership.
+
+Receiving Source Code does not, by itself, establish ownership of the copyright in that Source Code.
+
+The Licensee receives only the rights expressly granted by this License or an applicable Project-Specific Agreement.
+
+### 8.3 Copyright Assignment
+
+If the Licensee requires:
+
+- full copyright ownership;
+- intellectual-property assignment;
+- exclusive Source Code rights;
+- exclusive Design File rights;
+- restrictions on LaLibertia's reuse;
+- work-made-for-hire treatment; or
+- another ownership arrangement,
+
+those terms must be expressly documented in a valid written Project-Specific Agreement.
+
+Any assignment should identify the applicable work and the rights, duration, territory, consideration, and other terms required by applicable law.
+
+### 8.4 No Automatic Ownership Through Customization
+
+Modifying the Project does not automatically transfer ownership of LaLibertia-owned underlying Materials to the Licensee.
+
+The Licensee owns or retains rights in its own independently created Materials to the extent provided by applicable law, but those rights do not automatically include ownership of LaLibertia-owned underlying Materials.
+
+---
+
+## 9. Reusable LaLibertia Systems
+
+LaLibertia may develop reusable systems and techniques across multiple Projects.
+
+Unless expressly assigned in writing, LaLibertia retains its rights in reusable:
+
+- components;
+- utilities;
+- architecture patterns;
+- development systems;
+- animation systems;
+- design systems;
+- layout techniques;
+- coding patterns;
+- workflows;
+- general know-how;
+- internal tools; and
+- independently developed reusable code.
+
+LaLibertia may reuse such general systems in future Projects provided that it does not improperly disclose or reuse the Licensee's confidential information or proprietary Materials.
+
+---
+
+## 10. Project-Specific Work and Buyer Materials
+
+### 10.1 Licensee Materials
+
+The Licensee remains responsible for Materials it supplies to LaLibertia, including:
+
+- logos;
+- trademarks;
+- photographs;
+- text;
+- customer information;
+- business information;
+- credentials;
+- proprietary datasets;
+- private documents; and
+- other Licensee-owned Materials.
+
+The Licensee is responsible for ensuring it has the necessary rights to provide such Materials for use in the Project.
+
+### 10.2 Project-Specific Content
+
+Project-specific content supplied by the Licensee is not automatically transferred to LaLibertia merely because LaLibertia incorporates it into a Project.
+
+### 10.3 LaLibertia's General Systems
+
+Project-specific work does not automatically prevent LaLibertia from using its general skills, techniques, reusable systems, or independently developed Materials elsewhere.
+
+---
+
+## 11. Exclusivity
+
+This License is non-exclusive by default.
+
+The Licensee does not automatically receive exclusive rights to:
+
+- general designs;
+- general techniques;
+- reusable components;
+- reusable Source Code;
+- internal systems;
+- development methods;
+- general architecture;
+- design patterns; or
+- independently developed Materials.
+
+### 11.1 Purchased Exclusivity
+
+If exclusivity is separately purchased, the applicable written agreement must specify:
+
+- what is exclusive;
+- the duration;
+- the territory;
+- the affected Project or Materials;
+- what reuse is prohibited;
+- what reuse remains permitted; and
+- any applicable fees.
+
+A vague statement that a Project is "exclusive" does not automatically transfer all intellectual-property rights.
+
+---
+
+## 12. Third-Party Software and Assets
+
+### 12.1 Separate Licenses
+
+Third-Party Material remains governed by its own license.
+
+Examples include:
+
+- npm packages;
+- frameworks;
+- libraries;
+- fonts;
+- icon sets;
+- images;
+- videos;
+- plugins;
+- APIs;
+- hosted services;
+- SaaS services;
+- paid assets;
+- AI services;
+- models; and
+- external platforms.
+
+### 12.2 No Expansion of Third-Party Rights
+
+LaLibertia does not grant rights that it does not itself possess.
+
+Nothing in this License should be interpreted as relicensing Third-Party Material under this License where the applicable third-party license does not permit that result.
+
+### 12.3 ASSETS.md
+
+Where practical, LaLibertia may include an `ASSETS.md` file identifying significant Third-Party Material.
+
+Such documentation may include:
+
+| Field | Description |
+|---|---|
+| Asset | Name of the asset |
+| Source | Origin of the asset |
+| License | Applicable license |
+| Attribution | Required attribution, if any |
+| Commercial Use | Whether commercial use is permitted |
+| Redistribution | Relevant redistribution restrictions |
+
+Failure to include `ASSETS.md` does not eliminate any third-party obligations.
+
+### 12.4 Licensee Responsibility
+
+The Licensee is responsible for complying with applicable third-party terms for its continued use, deployment, modification, or redistribution of Third-Party Material.
+
+---
+
+## 13. Open-Source and Separately Licensed Materials
+
+LaLibertia may intentionally include open-source or separately licensed Materials within a Project.
+
+Where such a license is expressly identified:
+
+- that license governs the applicable Material;
+- this License does not override it; and
+- the Licensee receives at least the rights provided by that applicable license.
+
+Where the open-source license grants rights that cannot be contractually removed by this License, those rights remain available to the Licensee.
+
+The Licensee must comply with applicable obligations of those licenses.
+
+---
+
+## 14. AI-Assisted Development
+
+A Project may be created partly or substantially using AI-assisted development tools.
+
+The use of AI assistance does not, by itself, alter this License.
+
+### 14.1 Third-Party AI Systems
+
+AI tools, models, APIs, platforms, and services may have their own:
+
+- terms of service;
+- usage restrictions;
+- commercial-use conditions;
+- privacy requirements;
+- attribution requirements; and
+- intellectual-property provisions.
+
+Those terms remain separate from this License.
+
+### 14.2 No Transfer of AI Ownership
+
+This License does not transfer ownership of:
+
+- external AI models;
+- AI platforms;
+- AI services;
+- AI-generated third-party assets;
+- external datasets; or
+- third-party tools.
+
+### 14.3 Delivered Material
+
+The Licensee receives rights only to the Materials LaLibertia is legally able to license.
+
+---
+
+## 15. Source Code, Design Files, and Documentation
+
+### 15.1 Source Code Access
+
+Where Source Code is included in the purchased or authorized Project, the Licensee may access and modify that Source Code under this License.
+
+### 15.2 Design File Access
+
+Where editable Design Files are included, the Licensee may modify them for its permitted Project use.
+
+The Licensee may not separately resell or redistribute those Design Files as a competing design product.
+
+### 15.3 Documentation
+
+Project documentation may be used internally by the Licensee for operating, maintaining, and developing the Project.
+
+### 15.4 Credentials and Secrets
+
+The Licensee must not publish or redistribute:
+
+- passwords;
+- API keys;
+- private tokens;
+- private credentials;
+- secrets;
+- private customer information; or
+- other confidential security information.
+
+LaLibertia likewise should not intentionally include confidential credentials or secrets in publicly distributed Projects.
+
+---
+
+## 16. Fees and Payment
+
+### 16.1 License Fee
+
+Where the Project is sold, the applicable Purchase Agreement or transaction determines the amount payable.
+
+### 16.2 No Automatic Recurring License Fee
+
+Unless expressly agreed otherwise, the perpetual license does not create an automatic recurring license fee.
+
+### 16.3 Separate Services
+
+The following may require separate fees:
+
+- future development;
+- maintenance;
+- support;
+- hosting;
+- domain registration;
+- API services;
+- third-party services;
+- redesigns;
+- new features;
+- migrations;
+- security work;
+- priority support; and
+- other services not included in the original scope.
+
+### 16.4 Free Projects
+
+A Project may be distributed without charge.
+
+A free Project remains subject to this License unless another license is expressly designated.
+
+---
+
+## 17. Support, Maintenance, and Updates
+
+A Project purchase does not automatically include:
+
+- lifetime support;
+- lifetime maintenance;
+- unlimited revisions;
+- unlimited bug fixes;
+- future feature development;
+- future redesigns;
+- guaranteed framework compatibility;
+- guaranteed browser compatibility;
+- guaranteed hosting compatibility; or
+- guaranteed third-party service availability.
+
+Any support, warranty, maintenance, or revision commitment must be expressly stated in the applicable Purchase Agreement.
+
+The Licensee may independently maintain the Project or hire another developer to do so.
+
+---
+
+## 18. Brand Structure and Public Identity
+
+### 18.1 Brand
+
+LaLibertia is the parent brand under which the applicable work is produced, distributed, developed, or licensed.
+
+### 18.2 Current Operator
+
+At the time of Version 1.0 of this License, LaLibertia is operated by LaLibertiaDev as an independent, sole owner/operator. References in this License to "LaLibertia," "LaLibertiaDev," or "LaLibertia / LaLibertiaDev" refer to this same current owner/operator, and should not be read as implying the existence of a separate incorporated entity, multiple owners, employees, or organizational departments unless and until LaLibertia's structure changes and is reflected in a future version of this License.
+
+This structure does not limit or reduce any right granted to the Licensee under this License.
+
+### 18.3 Future Business Structure
+
+LaLibertia may later operate through:
+
+- a registered business;
+- company;
+- partnership;
+- agency;
+- development team;
+- corporation; or
+- another legal structure.
+
+A future change in business structure does not automatically revoke or reduce rights already granted under this License.
+
+### 18.4 Website
+
+LaLibertia may establish an official website, documentation portal, licensing portal, or other public presence in the future.
+
+The absence of a website does not invalidate this License.
+
+---
+
+## 19. Portfolio and Marketing Rights
+
+Unless the applicable Purchase Agreement includes a confidentiality or non-publicity restriction, LaLibertia / LaLibertiaDev may:
+
+- identify the Project as work developed by LaLibertia;
+- display reasonable screenshots;
+- display reasonable demonstrations;
+- create case studies;
+- display links to publicly available deployed work; and
+- describe the Project in a portfolio.
+
+LaLibertia must not intentionally publish the Licensee's:
+
+- passwords;
+- private credentials;
+- confidential documents;
+- private customer information;
+- confidential business information; or
+- other protected confidential Materials.
+
+If the Licensee requires complete confidentiality or a non-public portfolio arrangement, that requirement should be agreed in writing.
+
+---
+
+## 20. Confidentiality
+
+This License does not automatically create a comprehensive Non-Disclosure Agreement.
+
+Confidentiality obligations may be established through:
+
+- an NDA;
+- a confidentiality clause;
+- a Purchase Agreement; or
+- another valid written agreement.
+
+Where a separate confidentiality agreement applies, it governs confidentiality according to its terms.
+
+Both parties should take reasonable steps to protect confidential information.
+
+---
+
+## 21. Transfer of a Business or Project
+
+The Licensee may transfer the Project as part of a legitimate transfer of the business or organization for which the Project is used, such as:
+
+- a business sale;
+- merger;
+- acquisition; or
+- transfer of substantially all relevant business assets,
+
+provided that:
+
+1. the transfer is not a disguised standalone resale of Source Code;
+2. the recipient receives this License;
+3. the recipient does not receive broader rights than the Licensee held;
+4. applicable Third-Party Material may legally be transferred; and
+5. the transfer otherwise complies with applicable law.
+
+The Licensee may not sell a standalone copy of the Source Code to an unrelated third party merely by describing the transaction as a business transfer.
+
+---
+
+## 22. Refunds, Cancellations, and Chargebacks
+
+Refunds, cancellations, deposits, payment schedules, chargebacks, and disputes are governed by the applicable:
+
+- Purchase Agreement;
+- invoice;
+- marketplace rules;
+- payment-platform policies; or
+- other written commercial terms.
+
+This License does not independently create a refund policy.
+
+Where a refund results in the Licensee no longer being entitled to use the Project under the applicable commercial arrangement, the Licensee must comply with the resulting contractual obligations.
+
+---
+
+## 23. Warranty and Disclaimer
+
+The exact warranty, support period, delivery commitment, bug-fix period, and service guarantees applicable to a Project must be stated in the applicable Purchase Agreement if offered.
+
+Except where expressly agreed otherwise, the Project is provided "AS IS" and "AS AVAILABLE."
+
+To the maximum extent permitted by applicable law, LaLibertia makes no warranties, express or implied, regarding:
+
+- uninterrupted operation;
+- permanent availability;
+- future compatibility;
+- merchantability;
+- fitness for a particular purpose;
+- uninterrupted third-party services;
+- permanent API availability;
+- permanent hosting availability;
+- future framework compatibility;
+- future browser compatibility;
+- future platform compatibility; or
+- absence of all defects.
+
+Nothing in this License excludes or limits rights that cannot legally be excluded or limited.
+
+---
+
+## 24. Limitation of Liability
+
+To the maximum extent permitted by applicable law, and unless a Project-Specific Agreement states otherwise:
+
+### 24.1 Liability Cap
+
+LaLibertia / LaLibertiaDev's total aggregate liability arising out of or relating to a specific paid Project or this License shall not exceed the amount actually paid by the Licensee for that specific Project.
+
+Where a Project was provided without charge, no monetary amount was paid for the Project; however, the enforceability and application of a liability cap for no-cost Projects may vary by jurisdiction and should be confirmed through legal review (see Section 33.1) rather than assumed from this template alone.
+
+### 24.2 Excluded Damages
+
+To the maximum extent permitted by applicable law, LaLibertia shall not be liable for indirect, incidental, special, consequential, exemplary, or punitive damages, including:
+
+- loss of profits;
+- loss of revenue;
+- loss of business opportunities;
+- loss of data;
+- business interruption; or
+- similar consequential losses.
+
+### 24.3 Mandatory Law
+
+Nothing in this section limits liability that cannot legally be limited.
+
+---
+
+## 25. License Compliance and Termination
+
+### 25.1 Compliance
+
+The Licensee must comply with:
+
+1. this License;
+2. applicable Purchase Agreements, if any;
+3. applicable Project-Specific Agreements, if any;
+4. applicable Third-Party licenses; and
+5. applicable law.
+
+### 25.2 Material Breach
+
+A material violation of this License may result in termination of the License following written notice and a reasonable opportunity to cure, where legally appropriate or required.
+
+### 25.3 Immediate Termination
+
+Where applicable law permits, termination may occur without an extended cure period where the violation:
+
+- cannot reasonably be cured;
+- involves intentional commercial redistribution;
+- involves repeated infringement after notice; or
+- creates serious and continuing harm.
+
+### 25.4 Effect of Termination
+
+Upon valid termination, the Licensee must stop using and distributing the affected Project to the extent required by the applicable agreement and law.
+
+Termination does not transfer ownership of:
+
+- Licensee Materials;
+- Third-Party Material; or
+- other property belonging to another party.
+
+### 25.5 Survival
+
+Provisions concerning:
+
+- ownership;
+- intellectual property;
+- confidentiality;
+- disclaimers;
+- limitation of liability;
+- restrictions;
+- dispute terms; and
+- other provisions intended by their nature to survive
+
+remain effective after termination to the extent permitted by applicable law.
+
+---
+
+## 26. No Implied Rights
+
+Rights not expressly granted are reserved by LaLibertia / LaLibertiaDev.
+
+No right is granted by implication to:
+
+- resell Source Code;
+- sublicense Source Code;
+- redistribute Design Files;
+- sell templates;
+- claim exclusive ownership;
+- claim copyright assignment;
+- use LaLibertia trademarks;
+- redistribute internal LaLibertia systems;
+- access unrelated private repositories;
+- access unrelated projects; or
+- commercially redistribute LaLibertia proprietary Materials.
+
+---
+
+## 27. Project-Specific Agreements
+
+### 27.1 Override
+
+A valid Project-Specific Agreement may modify or supplement this License.
+
+### 27.2 Requirements
+
+The agreement should:
+
+- identify the Project;
+- identify the parties;
+- identify the modified terms;
+- identify any special rights;
+- identify any special restrictions; and
+- be agreed by authorized representatives of the relevant parties.
+
+### 27.3 Examples
+
+A Project-Specific Agreement may address:
+
+- copyright assignment;
+- IP ownership;
+- exclusivity;
+- confidentiality;
+- custom warranties;
+- maintenance;
+- support;
+- transfer rights;
+- reuse restrictions;
+- source-code ownership;
+- work-made-for-hire arrangements;
+- custom licensing rights; or
+- other commercial terms.
+
+### 27.4 Conflict
+
+Where a valid Project-Specific Agreement directly conflicts with this License, the Project-Specific Agreement controls only for the identified Project and only to the extent of the conflict.
+
+### 27.5 Informal Statements
+
+Casual discussions, assumptions, informal messages, or marketing statements should not be treated as modifying this License unless they otherwise form a legally effective agreement under applicable law.
+
+---
+
+## 28. Electronic Acceptance and Records
+
+Where legally permitted, this License may be accepted or incorporated through electronic means, including:
+
+- electronic agreements;
+- online purchases;
+- checkout acceptance;
+- digital signatures;
+- written electronic communications;
+- accepted invoices;
+- order confirmations; or
+- other legally recognized electronic records.
+
+Electronic acceptance does not eliminate any formalities that applicable law requires for particular transactions, such as certain copyright assignments.
+
+LaLibertia and the Licensee may retain electronic records evidencing:
+
+- delivery;
+- acceptance;
+- payment;
+- Project identity;
+- license version;
+- Purchase Agreement; and
+- other relevant transaction information.
+
+---
+
+## 29. Changes to This License
+
+LaLibertia / LaLibertiaDev may publish future versions of this License.
+
+A new version may contain:
+
+- updated terminology;
+- updated business information;
+- additional protections;
+- revised commercial terms;
+- updated licensing structure; or
+- other changes.
+
+### 29.1 Existing Projects
+
+A new version does not automatically rewrite the license governing a Project already distributed under an earlier version.
+
+The version supplied with or expressly designated for the Project remains the governing version unless the parties validly agree otherwise.
+
+### 29.2 Future Projects
+
+LaLibertia may use a newer version for Projects distributed after the newer version becomes effective.
+
+### 29.3 Recommended Record
+
+Licensees should retain a copy of the license version applicable to the Project they received.
+
+---
+
+## 30. General Legal Terms
+
+### 30.1 Governing Law
+
+Unless otherwise specified in a valid Project-Specific Agreement:
+
+**Governing Law:** [TO BE CONFIRMED BY LEGAL COUNSEL]
+
+### 30.2 Dispute Venue
+
+**Dispute Venue:** [TO BE CONFIRMED BY LEGAL COUNSEL]
+
+The governing law and dispute venue may be different depending on the applicable legal arrangement.
+
+Mandatory consumer-protection and other applicable laws may override contractual provisions where required.
+
+### 30.3 Severability
+
+If any provision is found invalid or unenforceable, it shall be modified or severed to the minimum extent necessary, while the remaining provisions continue in effect to the extent permitted by law.
+
+### 30.4 Entire Agreement
+
+This License, together with any applicable Purchase Agreement and valid Project-Specific Agreement, constitutes the agreement governing the applicable Project with respect to its subject matter, except where applicable law requires otherwise. Where no Purchase Agreement or Project-Specific Agreement exists, this License alone governs the Project.
+
+### 30.5 No Waiver
+
+Failure to enforce a provision does not constitute a waiver of that provision or any other provision.
+
+### 30.6 Assignment by LaLibertia
+
+LaLibertia / LaLibertiaDev may transfer its rights or obligations under this License in connection with:
+
+- restructuring;
+- acquisition;
+- merger;
+- sale of business assets;
+- incorporation; or
+- another legitimate business transfer,
+
+provided that such transfer does not unlawfully reduce rights already granted to the Licensee.
+
+### 30.7 Force Majeure
+
+Neither party shall be responsible for delays or failures caused by circumstances beyond reasonable control, including:
+
+- natural disasters;
+- war;
+- governmental actions;
+- infrastructure failures;
+- internet outages;
+- hosting failures;
+- third-party service failures;
+- widespread technical failures; or
+- similar events beyond reasonable control.
+
+### 30.8 Notices
+
+Where notice is required, it should be provided through the contact method specified in the applicable Purchase Agreement.
+
+If none is specified, notice may be provided through a reasonable documented communication channel associated with the transaction.
+
+### 30.9 Independent Parties
+
+This License does not create:
+
+- a partnership;
+- joint venture;
+- agency;
+- employment relationship; or
+- fiduciary relationship
+
+between the parties.
+
+Each party acts independently.
+
+---
+
+## 31. Plain-English Summary
+
+This section is only a convenience summary. The full License controls if there is any conflict.
+
+**This summary describes what applies when this License is the license actually governing a given Project.** If a Project is instead explicitly released under a different license (for example, MIT), that other license governs instead — see Section 3. A LaLibertia Project being publicly visible does not by itself mean either license applies — check what license actually accompanies that specific Project.
+
+The Licensee CAN:
+
+- use the Project;
+- use it commercially;
+- deploy it;
+- modify it;
+- redesign it;
+- rename it;
+- rebrand it;
+- change the UI;
+- change the functionality;
+- connect it to another backend;
+- connect APIs and services;
+- hire another developer;
+- maintain it independently;
+- create private development copies;
+- create reasonable backups;
+- create modified versions for its own permitted use;
+- remove LaLibertia branding unless otherwise agreed; and
+- continue using the Project indefinitely while complying with the License.
+
+The Licensee CANNOT, by default:
+
+- resell the Source Code;
+- sell the Project as a template;
+- upload it as a downloadable source-code product;
+- distribute the Figma/design files as a competing product;
+- create a marketplace product from the Source Code;
+- sublicense it to unrelated third parties;
+- claim ownership of Third-Party Material;
+- claim automatic exclusive ownership;
+- claim automatic copyright assignment;
+- distribute unrelated LaLibertia internal systems; or
+- give another person broader rights than the Licensee received.
+
+Simple rule:
+
+> **Use it. Customize it. Deploy it. Build your business on it.**
+>
+> **Don't buy one copy and turn the underlying Source Code or Design Files into a product for selling to other people.**
+
+---
+
+## 32. Standard License Information
+
+| Field | Value |
+|---|---|
+| License Name | LaLibertia Commercial Software & Digital Works License |
+| Version | 1.0 |
+| Parent Brand | LaLibertia |
+| Current Owner / Operator | LaLibertiaDev |
+| License Type | Perpetual, worldwide, non-exclusive, commercial |
+| Default Application | LaLibertia-owned Projects and Materials without another expressly designated license |
+| Commercial Use | Permitted |
+| Modification | Permitted |
+| Deployment | Permitted |
+| Private Development Copies | Permitted |
+| Reasonable Backups | Permitted |
+| Third-Party Material | Governed by applicable third-party licenses |
+| Open-Source Material | Governed by its designated open-source license |
+| Source-Code Resale | Not permitted by default |
+| Template Resale | Not permitted by default |
+| Design-File Resale | Not permitted by default |
+| Sublicensing | Not permitted by default |
+| Copyright Assignment | Not granted by default |
+| Exclusivity | Not granted by default |
+| Recurring Source-Code License Fee | None unless separately agreed |
+| Support | Not automatically included |
+| Maintenance | Not automatically included |
+| Portfolio Rights | Reserved unless restricted by written agreement |
+| License Duration | Perpetual, subject to compliance and applicable agreements |
+
+---
+
+## 33. Legal Notice and Review Items
+
+### 33.1 Legal Review
+
+This License is intended to serve as LaLibertia's standard commercial licensing framework. It is not a substitute for jurisdiction-specific legal advice.
+
+Before relying on this License for significant commercial transactions, legal review should specifically consider:
+
+- governing law;
+- dispute venue;
+- copyright ownership;
+- copyright assignment requirements;
+- licensing formalities;
+- liability limitations;
+- termination provisions;
+- consumer-protection requirements;
+- international transactions;
+- taxation;
+- exclusivity;
+- employment relationships;
+- contractor relationships;
+- privacy obligations;
+- data protection;
+- third-party licenses; and
+- enforceability of electronic agreements.
+
+The applicable governing law and jurisdiction for LaLibertia's operations have not yet been confirmed (see Sections 30.1–30.2). Copyright, licensing-formality, and electronic-contracting rules — including any rules on written requirements for copyright assignments, treatment of computer programs under copyright law, and recognition of electronic records and contracts — vary by jurisdiction. Once the applicable jurisdiction(s) are confirmed, a qualified lawyer should confirm how those rules apply to this License before it is relied upon for significant commercial transactions. This section does not assert that any specific jurisdiction's law currently applies to this License.
+
+### 33.2 Important Operational Rule
+
+For every LaLibertia Project:
+
+1. Include this `LICENSE.md` unless another license is intentionally designated.
+2. If the Project contains open-source code, retain the applicable open-source license and notices.
+3. If the Project contains significant Third-Party Material, document it where practical in `ASSETS.md`.
+4. If a client receives special IP ownership, exclusivity, confidentiality, or other rights, document those terms in a separate Project-Specific Agreement.
+5. Keep a copy of the exact License version delivered with the Project.
+6. Do not assume that payment automatically transfers copyright ownership.
+7. Do not assume that public availability means open-source licensing.
+8. Do not remove or alter third-party license notices where their licenses require them to remain.
+9. Do not include private credentials, secrets, or confidential information in publicly distributed repositories.
+10. Use the License version applicable to the Project rather than silently replacing the terms of an already-issued Project.
+
+---
+
+## END OF LICENSE
+
+© LaLibertia / LaLibertiaDev — All rights reserved except as expressly granted by this License or an applicable overriding license or agreement.
