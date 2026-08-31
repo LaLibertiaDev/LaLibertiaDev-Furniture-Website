@@ -1,0 +1,48 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+/* Quiet Gallery design system: warm ivory canvas, walnut signature, editorial serif + clean sans, restrained borders and motion. */
+@theme inline {
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+}
+
+:root { --radius: 0.15rem; --background: oklch(0.97 0.012 82); --foreground: oklch(0.20 0.018 62); --card: oklch(0.985 0.008 82); --card-foreground: oklch(0.20 0.018 62); --popover: oklch(0.985 0.008 82); --popover-foreground: oklch(0.20 0.018 62); --primary: oklch(0.34 0.06 48); --primary-foreground: oklch(0.98 0.008 82); --secondary: oklch(0.92 0.018 77); --secondary-foreground: oklch(0.28 0.025 60); --muted: oklch(0.92 0.015 78); --muted-foreground: oklch(0.50 0.025 65); --accent: oklch(0.88 0.025 72); --accent-foreground: oklch(0.24 0.02 58); --destructive: oklch(0.55 0.16 28); --destructive-foreground: oklch(0.98 0.008 82); --border: oklch(0.83 0.022 75); --input: oklch(0.83 0.022 75); --ring: oklch(0.45 0.06 48); }
+
+@layer base { * { @apply border-border outline-ring/50; } body { @apply bg-background text-foreground; margin:0; font-family: "DM Sans", sans-serif; } a { color:inherit; text-decoration:none; } button { font:inherit; } }
+
+/* Crafted primitives for the Quiet Gallery system. */
+.container { width:100%; max-width:1280px; margin-inline:auto; padding-inline:clamp(20px,5vw,72px); }
+.display-serif { font-family:"Cormorant Garamond", Georgia, serif; letter-spacing:-0.035em; }
+.eyebrow { font-size:10px; letter-spacing:.19em; text-transform:uppercase; font-weight:600; color:#766c60; }
+.rule { border-top:1px solid #d8d0c4; }
+.wood { color:#6b4d3a; }
+.image-wrap { overflow:hidden; background:#e6ded2; }
+.image-wrap img { width:100%; height:100%; object-fit:cover; transition:transform 700ms cubic-bezier(.23,1,.32,1); }
+.image-wrap:hover img { transform:scale(1.025); }
+.fade-up { animation:fadeUp .7s cubic-bezier(.23,1,.32,1) both; }
+@keyframes fadeUp { from { opacity:0; transform:translateY(12px); } to { opacity:1; transform:none; } }
+@media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation-duration:.01ms!important; transition-duration:.01ms!important; scroll-behavior:auto!important; } }
